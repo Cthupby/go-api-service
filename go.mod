@@ -1,3 +1,3 @@
-module github.com/cthupby/go-api-service
+module go-api-service
 
-go 1.20
+go 1.22
